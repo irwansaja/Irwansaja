@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anhar Sandova</h1>
+<h1 align="center">Hi, I'm WAN•BLACK4TX</h1>
 <h3 align="center">Back End Developer | Distro Hopper 🐧</h3>
 
 
